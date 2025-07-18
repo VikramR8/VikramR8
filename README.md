@@ -9,27 +9,42 @@ Currently focused on **React Native + Node.js** with PostgreSQL and MongoDB.
 ---
 
 ### 🛠️ Tech Stack
+
+#### 💻 Languages & Frameworks
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=openjdk)
+![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![React Native](https://img.shields.io/badge/-React%20Native-black?style=flat-square&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
+
+#### 🗃️ Databases
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+
+#### 🛠️ Dev Tools
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visualstudiocode)
 
 ---
 
 ### 🧠 Current Projects
-- 📱 **TrackAid** — A doctor discovery app for new users in a city  
+
+- 📱 **TrackAid** — A doctor discovery app for users new to a city  
 - 💸 **SpendIt** — Personal expense tracker with real-time sync  
-- 🧑‍🎓 **SyncedScript** — A collaborative coding and notes platform for students to write, save, and share code snippets in real-time  
+- 🧑‍🎓 **SyncedScript** — A collaborative coding & note-taking platform for students to write, save, and share code snippets in real-time  
 
 ---
 
 ### 🌱 Learning Roadmap
-- Spring Boot + PostgreSQL
-- DevOps (CI/CD, Docker, AWS Basics)
+
+- Spring Boot + PostgreSQL  
+- DevOps (CI/CD, Docker, AWS Basics)  
+- System Design & Architecture
 
 ---
 
@@ -53,4 +68,4 @@ Currently focused on **React Native + Node.js** with PostgreSQL and MongoDB.
 
 ---
 
-<!-- Profile README powered by fire, chai, and late-night debugging -->
+<!-- Profile README powered by fire, chai, and late-night debugging 💻🔥 -->
