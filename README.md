@@ -38,7 +38,7 @@ A collection of the primary tools and technologies I use to bring ideas to life.
 #### Mudrika Vyavastha
 A sleek and intuitive personal expense tracker designed to help users manage their finances effortlessly. Features real-time data synchronization, category-based spending analysis, and visual dashboards.
 
-**Tech Used:** `React`, `Node.js`, `Express`, `PostgreSQL`
+**Tech Used:** `React`, `SpringBoot`, `MySQL`, `JWT`
 
 ---
 
