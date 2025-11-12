@@ -18,19 +18,30 @@
 
 ---
 
-### ⚙️ Skills
+### 💻 Skills
 
+#### 🧩 Languages
 <p align="center">
-  <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,reactnative,nextjs,tailwind,figma&theme=dark" />
-  <br/>
-  <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,nodejs,express&theme=dark" />
-  <br/>
-  <!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=java,js&theme=dark" />
+</p>
+
+#### 🎨 Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,reactnative,nextjs,tailwind,figma&theme=dark" />
+</p>
+
+#### ⚙️ Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=spring,hibernate,nodejs,express&theme=dark" />
+</p>
+
+#### 🗄️ Databases
+<p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb&theme=dark" />
-  <br/>
-  <!-- Tools & Platforms -->
+</p>
+
+#### 🧰 Tools & Platforms
+<p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,intellij,postman,debian,aws&theme=dark" />
 </p>
 
@@ -52,19 +63,4 @@
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/vikramadityareshmi">
-    <img src="https://img.shields.io/badge/LinkedIn-00B4D8?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:vikramadityareshmi@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-00B4D8?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/VikramR8">
-    <img src="https://img.shields.io/badge/GitHub-00B4D8?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>“Turning ideas into scalable, impactful solutions — one commit at a time.”</i>
-</p>
+  <a href="https://linkedin
