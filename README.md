@@ -1,57 +1,23 @@
-## Hi there! 👋 I'm Vikramaditya Reshmi
+<h1 align="center">Hi 👋, I'm Vikramaditya Reshmi</h1>
+<h3 align="center">Full Stack Developer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vikramr8&label=Profile%20views&color=0e75b6&style=flat" alt="vikramr8" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikramr8" alt="vikramr8" /></a> </p>
 
-## About Me
+- 💬 Ask me about **Full-stack developer with a strong foundation in the Java Spring Boot ecosystem and modern JavaScript frameworks like React and Next.js. Skilled in building, testing, and deploying end-to-end web applications that deliver robust performance and intuitive user experiences. Currently expanding my expertise into cloud (AWS) and DevOps to support the full development lifecycle.**
 
-Full-stack developer with a strong foundation in the Java Spring Boot ecosystem and modern JavaScript frameworks like React and Next.js. Skilled in building, testing, and deploying end-to-end web applications that deliver robust performance and intuitive user 
-experiences. Currently expanding my expertise into cloud (AWS) and DevOps to support the full development lifecycle. 
-
-## Skills & Technologies
-
-java,js,html,css,react,nextjs,tailwind,spring,express,maven,nodejs,hibernate,mysql,postgres,mongodb,postman,vscode,git,figma
-
-## Top Projects
-
-- [Synced-Script](https://github.com/VikramR8/Synced-Script) - A Real-time Collaboration web-based IDE - ⭐️ 0 Stars, Language: TypeScript
-- [Mudrika_Vyavastha_Backend](https://github.com/VikramR8/Mudrika_Vyavastha_Backend) - Backend service for Mudrika Vyavastha - ⭐️ 4 Stars, Language: Java
-- [Spend_It](https://github.com/VikramR8/Spend_It) - A budgeting application for managing expenses - ⭐️ 0 Stars, Language: JavaScript
-- [Weather-App-using-api](https://github.com/VikramR8/Weather-App-using-api) - A weather application utilizing external APIs - ⭐️ 0 Stars, Language: JavaScript
-- [Notes-app-using-MERN-](https://github.com/VikramR8/Notes-app-using-MERN-) - A basic notes app using the MERN stack - ⭐️ 0 Stars, Language: JavaScript
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VikramR8&show_icons=true&theme=radical)
-
-- **Public Repositories:** 8
-- **Followers:** 5
-- **Following:** 9
-
-## Recent Activity
-
-- Pushed to [VikramR8](https://github.com/VikramR8/VikramR8) on 12th Nov 2025
-- Updated [Mudrika_Vyavastha_Backend](https://github.com/VikramR8/Mudrika_Vyavastha_Backend) on 11th Nov 2025
-- Contributed to [Spend_It](https://github.com/VikramR8/Spend_It) on 10th Nov 2025
-- Commits made on [Synced-Script](https://github.com/VikramR8/Synced-Script) on 9th Nov 2025
-- Created issues in [Weather-App-using-api](https://github.com/VikramR8/Weather-App-using-api) on 8th Nov 2025
-
-## 🌐 Connect With Me
-
-<p align="center" style="font-size: 18px;">
-  <a href="https://linkedin.com/in/vikramadityareshmi" target="_blank" style="margin: 0 15px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
-    <br/><sub><b style="color:#00B4D8;">LinkedIn</b></sub>
-  </a>
-  <a href="mailto:vikramadityareshmi@gmail.com" target="_blank" style="margin: 0 15px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40" alt="Gmail"/>
-    <br/><sub><b style="color:#00B4D8;">Gmail</b></sub>
-  </a>
-  <a href="https://github.com/VikramR8" target="_blank" style="margin: 0 15px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
-    <br/><sub><b style="color:#00B4D8;">GitHub</b></sub>
-  </a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/vikramadityareshmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vikramadityareshmi" height="30" width="40" /></a>
+<a href="https://instagram.com/vikramaditya._.8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vikramaditya._.8" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikramr8&show_icons=true&locale=en&layout=compact" alt="vikramr8" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vikramr8&show_icons=true&locale=en" alt="vikramr8" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikramr8&" alt="vikramr8" /></p>
