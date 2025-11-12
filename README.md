@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vikramaditya Reshmi</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-- 💬 Ask me about **Full-stack developer with a strong foundation in the Java Spring Boot ecosystem and modern JavaScript frameworks like React and Next.js. Skilled in building, testing, and deploying end-to-end web applications that deliver robust performance and intuitive user experiences. Currently expanding my expertise into cloud (AWS) and DevOps to support the full development lifecycle.**
+**Full-stack developer with a strong foundation in the Java Spring Boot ecosystem and modern JavaScript frameworks like React and Next.js. Skilled in building, testing, and deploying end-to-end web applications that deliver robust performance and intuitive user experiences. Currently expanding my expertise into cloud (AWS) and DevOps to support the full development lifecycle.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
