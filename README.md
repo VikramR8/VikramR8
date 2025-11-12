@@ -1,66 +1,47 @@
-<!-- Vikramaditya Reshmi - GitHub Profile README -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=700&size=30&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Java+%7C+React+%7C+Next.js+%7C+AWS" alt="Typing SVG" />
-</h1>
-
----
-
-<h2 align="center">👋 Hey, I'm <span style="color:#00b4d8;">Vikramaditya Reshmi</span></h2>
-
-<p align="center">
-  <em>
-    Full-stack developer with a strong foundation in the <b>Java Spring Boot ecosystem</b> and modern 
-    <b>JavaScript frameworks</b> like <b>React</b> and <b>Next.js</b>.<br>
-    Skilled in building, testing, and deploying <b>end-to-end web applications</b> that deliver robust performance and intuitive user experiences.<br>
-    Currently expanding my expertise into <b>Cloud (AWS)</b> and <b>DevOps</b> to support the full development lifecycle.
-  </em>
-</p>
-
----
-
 ### 💻 Skills
+
+<div align="center" style="background-color:#0d1117; border-radius:12px; padding:20px;">
 
 #### 🧩 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js&theme=dark" />
+  <img src="https://img.icons8.com/?size=48&id=13679&format=png&color=00b4d8" title="Java"/>
+  <img src="https://img.icons8.com/?size=48&id=108784&format=png&color=00b4d8" title="JavaScript"/>
 </p>
 
 #### 🎨 Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,reactnative,nextjs,tailwind,figma&theme=dark" />
+  <img src="https://img.icons8.com/?size=48&id=20909&format=png&color=00b4d8" title="HTML5"/>
+  <img src="https://img.icons8.com/?size=48&id=21278&format=png&color=00b4d8" title="CSS3"/>
+  <img src="https://img.icons8.com/?size=48&id=123603&format=png&color=00b4d8" title="React"/>
+  <img src="https://img.icons8.com/?size=48&id=GeuVJkFQ7hRq&format=png&color=00b4d8" title="React Native"/>
+  <img src="https://img.icons8.com/?size=48&id=rHpveptSuwDz&format=png&color=00b4d8" title="Next.js"/>
+  <img src="https://img.icons8.com/?size=48&id=UlR3I__gnmGk&format=png&color=00b4d8" title="TailwindCSS"/>
+  <img src="https://img.icons8.com/?size=48&id=TuXoYEZqnxC1&format=png&color=00b4d8" title="Figma"/>
 </p>
 
 #### ⚙️ Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,hibernate,nodejs,express&theme=dark" />
+  <img src="https://img.icons8.com/?size=48&id=90519&format=png&color=00b4d8" title="Spring Boot"/>
+  <img src="https://img.icons8.com/?size=48&id=54087&format=png&color=00b4d8" title="Hibernate"/>
+  <img src="https://img.icons8.com/?size=48&id=54087&format=png&color=00b4d8" title="REST APIs"/>
+  <img src="https://img.icons8.com/?size=48&id=54087&format=png&color=00b4d8" title="Node.js"/>
+  <img src="https://img.icons8.com/?size=48&id=54087&format=png&color=00b4d8" title="Express.js"/>
 </p>
 
 #### 🗄️ Databases
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb&theme=dark" />
+  <img src="https://img.icons8.com/?size=48&id=39856&format=png&color=00b4d8" title="MySQL"/>
+  <img src="https://img.icons8.com/?size=48&id=38561&format=png&color=00b4d8" title="PostgreSQL"/>
+  <img src="https://img.icons8.com/?size=48&id=74402&format=png&color=00b4d8" title="MongoDB"/>
 </p>
 
 #### 🧰 Tools & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,intellij,postman,debian,aws&theme=dark" />
+  <img src="https://img.icons8.com/?size=48&id=22813&format=png&color=00b4d8" title="VS Code"/>
+  <img src="https://img.icons8.com/?size=48&id=13439&format=png&color=00b4d8" title="IntelliJ IDEA"/>
+  <img src="https://img.icons8.com/?size=48&id=13604&format=png&color=00b4d8" title="Postman"/>
+  <img src="https://img.icons8.com/?size=48&id=33039&format=png&color=00b4d8" title="AWS"/>
+  <img src="https://img.icons8.com/?size=48&id=13446&format=png&color=00b4d8" title="DBeaver / Debian"/>
 </p>
 
----
-
-### 📊 GitHub Stats & Achievements
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=VikramR8&show_icons=true&theme=tokyonight&title_color=00B4D8&icon_color=00B4D8&text_color=C9D1D9&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=VikramR8&theme=tokyonight&hide_border=true&ring=00B4D8&fire=00B4D8&currStreakLabel=00B4D8" />
-</p>
-
-<p align="center">
-  <img width="60%" src="https://github-profile-trophy.vercel.app/?username=VikramR8&theme=tokyonight&no-bg=true&no-frame=true&column=6&title=Commit,Stars,Followers,Repositories,PullRequest,Issues" />
-</p>
-
----
-
-### 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin
+</div>
