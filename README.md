@@ -1,8 +1,8 @@
 <!-- Vikramaditya Reshmi - GitHub Profile README -->
-<h1 align="center">Hi there 👋, I'm Vikramaditya Reshmi</h1>
+<h1 align="center">🖤 Hi there, I'm Vikramaditya Reshmi 🤍</h1>
 
 <p align="center">
-  <em>Full-stack developer passionate about crafting clean, efficient, and scalable web applications.</em>
+  <em>Full-stack Developer | Java Spring Boot • React • Next.js • AWS</em>
 </p>
 
 ---
@@ -19,19 +19,19 @@
 
 <p align="center">
   <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,reactnative,nextjs,tailwind,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,reactnative,nextjs,tailwind,figma&theme=light" />
   <br/>
   <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,nodejs,express&theme=light" />
   <br/>
   <!-- Database -->
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb&theme=light" />
   <br/>
   <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=vscode,intellij,postman,debian" />
+  <img src="https://skillicons.dev/icons?i=vscode,intellij,postman,debian&theme=light" />
   <br/>
   <!-- Cloud -->
-  <img src="https://skillicons.dev/icons?i=aws" />
+  <img src="https://skillicons.dev/icons?i=aws&theme=light" />
 </p>
 
 ---
@@ -39,30 +39,30 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=VikramR8&show_icons=true&theme=graywhite&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=VikramR8&theme=graywhite&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=VikramR8&show_icons=true&theme=transparent&icon_color=000000&text_color=000000&title_color=000000&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=VikramR8&theme=transparent&ring=000000&fire=000000&currStreakLabel=000000&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VikramR8&layout=compact&theme=graywhite&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VikramR8&layout=compact&theme=transparent&title_color=000000&text_color=000000&hide_border=true" />
 </p>
 
 ---
 
 <p align="center">
-  <i>“Code is like humor. When you have to explain it, it’s bad.”</i>
+  <i>"Code in silence. Let your commits make the noise."</i>
 </p>
 
 ---
 
 <p align="center">
   <a href="https://linkedin.com/in/vikramadityareshmi">
-    <img src="https://img.shields.io/badge/LinkedIn-black?style=flat&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:vikramadityareshmi@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-black?style=flat&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-000000?style=flat&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/VikramR8">
-    <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white"/>
   </a>
 </p>
