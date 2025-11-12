@@ -18,28 +18,25 @@
 
 ---
 
-### 💻 Tech Stack
+### ⚙️ Skills
 
 <p align="center">
   <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,reactnative,nextjs,tailwind,figma&theme=light" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,reactnative,nextjs,tailwind,figma&theme=dark" />
   <br/>
   <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,nodejs,express&theme=light" />
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,nodejs,express&theme=dark" />
   <br/>
-  <!-- Database -->
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb&theme=light" />
+  <!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb&theme=dark" />
   <br/>
-  <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=vscode,intellij,postman,debian&theme=light" />
-  <br/>
-  <!-- Cloud -->
-  <img src="https://skillicons.dev/icons?i=aws&theme=light" />
+  <!-- Tools & Platforms -->
+  <img src="https://skillicons.dev/icons?i=vscode,intellij,postman,debian,aws&theme=dark" />
 </p>
 
 ---
 
-### 📈 GitHub Stats & Achievements
+### 📊 GitHub Stats & Achievements
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=VikramR8&show_icons=true&theme=tokyonight&title_color=00B4D8&icon_color=00B4D8&text_color=C9D1D9&hide_border=true" />
