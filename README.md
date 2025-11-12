@@ -35,7 +35,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="ReactJS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React Native"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" height="45" alt="Next.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss.svg" width="45" height="45" alt="TailwindCSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="TailwindCSS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" height="45" alt="Figma"/>
 </p>
 
@@ -47,7 +47,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" height="45" alt="Express"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" width="45" height="45" alt="Hibernate"/>
-  <img src="https://img.icons8.com/?size=48&id=54087&format=png&color=00b4d8" width="45" height="45" alt="REST APIs"/>
 </p>
 
 ---
@@ -64,10 +63,10 @@
 ### 🧰 Tools & Platforms
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" alt="VSCode"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="45" height="45" alt="IntelliJ"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="45" height="45" alt="IntelliJ IDEA"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45" height="45" alt="Postman"/>
-  <img src="https://img.icons8.com/?size=48&id=33039&format=png&color=00b4d8" width="45" height="45" alt="AWS"/>
-  <img src="https://img.icons8.com/?size=48&id=13446&format=png&color=00b4d8" width="45" height="45" alt="DBeaver"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/DBeaver_logo.svg" width="45" height="45" alt="DBeaver"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="45" height="45" alt="AWS"/>
 </p>
 
 ---
@@ -91,8 +90,4 @@
   <a href="https://linkedin.com/in/vikramadityareshmi">
     <img src="https://img.shields.io/badge/LinkedIn-00B4D8?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:vikramadityareshmi@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-00B4D8?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/VikramR8">
-    <img src="https://img.shields.io/badge/GitHub-00B4D8
+  <a href="mailto:vikramadityareshmi@gmail.c
