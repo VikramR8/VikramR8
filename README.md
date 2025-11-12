@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vikramaditya Reshmi</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vikramr8&label=Profile%20views&color=0e75b6&style=flat" alt="vikramr8" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikramr8" alt="vikramr8" /></a> </p>
 
 - 💬 Ask me about **Full-stack developer with a strong foundation in the Java Spring Boot ecosystem and modern JavaScript frameworks like React and Next.js. Skilled in building, testing, and deploying end-to-end web applications that deliver robust performance and intuitive user experiences. Currently expanding my expertise into cloud (AWS) and DevOps to support the full development lifecycle.**
