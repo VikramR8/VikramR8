@@ -1,93 +1,78 @@
-<!-- Vikramaditya Reshmi - GitHub Profile README -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=700&size=30&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Java+%7C+React+%7C+Next.js+%7C+AWS" alt="Typing SVG" />
-</h1>
+Hi there, I'm Vikramaditya Reshmi 👋
 
----
+<div align="center">
+<a href="https://www.google.com/search?q=https://www.linkedin.com/in/vikramadityareshmi" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn" />
+</a>
+<a href="mailto:vikramadityareshmi@gmail.com">
+&lt;img src="https://www.google.com/search?q=https://img.shields.io/badge/Gmail-D14836%3Fstyle%3Dfor-the-badge%26amp%3Blogo%3Dgmail%26amp%3BlogoColor%3Dwhite" alt="Email" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
 
-<h2 align="center">👋 Hey, I'm <span style="color:#00b4d8;">Vikramaditya Reshmi</span></h2>
+<br />
 
-<p align="center">
-  <em>
-    Full-stack developer with a strong foundation in the <b>Java Spring Boot ecosystem</b> and modern 
-    <b>JavaScript frameworks</b> like <b>React</b> and <b>Next.js</b>.<br>
-    Skilled in building, testing, and deploying <b>end-to-end web applications</b> that deliver robust performance and intuitive user experiences.<br>
-    Currently expanding my expertise into <b>Cloud (AWS)</b> and <b>DevOps</b> to support the full development lifecycle.
-  </em>
+Summary
+
+I'm a full-stack developer with a strong foundation in the Java Spring Boot ecosystem and modern JavaScript frameworks like React and Next.js. I'm skilled in building, testing, and deploying end-to-end web applications that deliver robust performance and intuitive user experiences. Currently, I'm expanding my expertise into cloud (AWS) and DevOps to support the full development lifecycle.
+
+🛠️ My Tech Stack
+
+Here are the technologies and tools I work with:
+
+Languages
+
+<p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack" alt="JavaScript" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/HTML5-E34F26%3Fstyle%3Dfor-the-badge%26logo%3Dhtml5%26logoColor%3Dwhite" alt="HTML5" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/CSS3-1572B6%3Fstyle%3Dfor-the-badge%26logo%3Dcss3%26logoColor%3Dwhite" alt="CSS3" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/SQL-000000%3Fstyle%3Dfor-the-badge%26logo%3Dsqlite%26logoColor%3Dwhite" alt="SQL" />
 </p>
 
----
+Frontend
 
-## 💻 Skills
+<p>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/React-20232A%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3D61DAFB" alt="React" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Next.js-000000%3Fstyle%3Dfor-the-badge%26logo%3Dnextdotjs%26logoColor%3Dwhite" alt="Next.js" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Tailwind_CSS-38B2AC%3Fstyle%3Dfor-the-badge%26logo%3Dtailwind-css%26logoColor%3Dwhite" alt="Tailwind CSS" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/shadcn/ui-000000%3Fstyle%3Dfor-the-badge%26logo%3Dshadcnui%26logoColor%3Dwhite" alt="shadcn/ui" />
+</small>
 
-### 🧩 Languages
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+Backend
+
+<p>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Spring_Boot-6DB33F%3Fstyle%3Dfor-the-badge%26logo%3Dspring-boot%26logoColor%3Dwhite" alt="Spring Boot" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Hibernate-59666C%3Fstyle%3Dfor-the-badge%26logo%3Dhibernate%26logoColor%3Dwhite" alt="Hibernate" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Node.js-339933%3Fstyle%3Dfor-the-badge%26logo%3Dnodedotjs%26logoColor%3Dwhite" alt="Node.js" />
 </p>
 
----
+Databases
 
-### 🎨 Frontend
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="ReactJS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React Native"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" height="45" alt="Next.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="TailwindCSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" height="45" alt="Figma"/>
+<p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/PostgreSQL-336791%3Fstyle%3Dfor-the-badge%26logo%3Dpostgresql%26logoColor%3Dwhite" alt="PostgreSQL" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/MongoDB-47A248%3Fstyle%3Dfor-the-badge%26logo%3Dmongodb%26logoColor%3Dwhite" alt="MongoDB" />
 </p>
 
----
+Tools & Platforms
 
-### ⚙️ Backend
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" height="45" alt="Spring"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" height="45" alt="Express"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" width="45" height="45" alt="Hibernate"/>
+<p>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Git-F05032%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" alt="Git" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-181717%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" alt="GitHub" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Postman-FF6C37%3Fstyle%3Dfor-the-badge%26logo%3Dpostman%26logoColor%3Dwhite" alt="Postman" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/VS_Code-007ACC%3Fstyle%3Dfor-the-badge%26logo%3Dvisual-studio-code%26logoColor%3Dwhite" alt="Visual Studio Code" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/IntelliJ_IDEA-000000%3Fstyle%3Dfor-the-badge%26logo%3Dintellij-idea%26logoColor%3Dwhite" alt="IntelliJ IDEA" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Amazon_AWS-232F3E%3Fstyle%3Dfor-the-badge%26logo%3Damazon-aws%26logoColor%3Dwhite" alt="Amazon AWS" />
 </p>
 
----
+📈 My GitHub Stats
 
-### 🗄️ Databases
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB"/>
-</p>
+<!--
+IMPORTANT: Update the 'username' parameter in the URLs below to your GitHub username.
+e.g. ?username=your-github-username
+-->
 
----
-
-### 🧰 Tools & Platforms
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" alt="VSCode"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="45" height="45" alt="IntelliJ IDEA"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45" height="45" alt="Postman"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/DBeaver_logo.svg" width="45" height="45" alt="DBeaver"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="45" height="45" alt="AWS"/>
-</p>
-
----
-
-## 📊 GitHub Stats & Achievements
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=VikramR8&show_icons=true&theme=tokyonight&title_color=00B4D8&icon_color=00B4D8&text_color=C9D1D9&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=VikramR8&theme=tokyonight&hide_border=true&ring=00B4D8&fire=00B4D8&currStreakLabel=00B4D8" />
-</p>
-
-<p align="center">
-  <img width="60%" src="https://github-profile-trophy.vercel.app/?username=VikramR8&theme=tokyonight&no-bg=true&no-frame=true&column=6&title=Commit,Stars,Followers,Repositories,PullRequest,Issues" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/vikramadityareshmi">
-    <img src="https://img.shields.io/badge/LinkedIn-00B4D8?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:vikramadityareshmi@gmail.c
+<div align="center">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DVikramR8%26show_icons%3Dtrue%26theme%3Dradical%26hide_border%3Dtrue%26count_private%3Dtrue" alt="Vikramaditya's GitHub Stats" height="150" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DVikramR8%26layout%3Dcompact%26theme%3Dradical%26hide_border%3Dtrue" alt="Top Languages" height="150" />
+</div>
