@@ -17,7 +17,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vikramr8&show_icons=true&locale=en" alt="vikramr8" /></p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=VikramR8&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=VikramR8&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
+
 
 
